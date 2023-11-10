@@ -16,4 +16,4 @@ Maintainer company website: https://astian.org/
 
 Announcement page: https://astian.org/midori-browser/download/
 
-Official public repository: https://gitlab.com/midori-web/midori-desktop
+Official public repository: https://github.com/goastian
